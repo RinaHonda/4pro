@@ -1,0 +1,13 @@
+<template>
+<svg width="800" height="800">
+  <circle cx="400"
+	  cy="400"
+	  r="100">
+    </circle>
+</svg> 
+</template>
+
+<script>
+  export default{
+  }
+</script>
